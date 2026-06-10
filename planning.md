@@ -11,6 +11,9 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+This project focuses on student reviews of Computer Science professors at the University of Southern California (USC). This knowledge is valuable because USC's official course catalog and department pages offer almost no qualitative insight into teaching style, grading fairness, workload expectations, or how a professor handles office hours. Aggregating this peer knowledge through a retrieval system gives students a more complete picture than any single official channel provides.
+
+
 ---
 
 ## Documents
@@ -20,16 +23,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RateMyProfessors – USC school page | Aggregate student ratings and written reviews for all USC professors across departments; good for broad coverage and sorting by department | https://www.ratemyprofessors.com/school/1381 |
+| 2 | RateMyProfessors – Bill Cheng | 188+ student reviews of the CSCI 402 (Operating Systems) professor; covers grading, workload, and lecture quality for a core upper-div course | https://www.ratemyprofessors.com/professor/913088 |
+| 3 | RateMyProfessors – Mark Redekopp | 250+ reviews covering CSCI 102/104; highly rated professor of intro and data structures courses — useful contrast against more divisive professors | https://www.ratemyprofessors.com/professor/860888 |
+| 4 | RateMyProfessors – Andrew Goodney | 196+ reviews for intro CS and systems courses; tags like "lots of homework" and "accessible outside class" show dimension beyond star rating | https://www.ratemyprofessors.com/professor/2163737 |
+| 5 | RateMyProfessors – Saty Raghavachary | 244+ reviews for CSCI 585 (Database Systems); one of the most-reviewed CS professors at USC, good source for upper-div perspective | https://www.ratemyprofessors.com/professor/798241 |
+| 6 | RateMyProfessors – Chi So | Reviews for a highly-rated professor known for engaging lectures; provides positive-end signal to contrast with more mixed reviews | https://www.ratemyprofessors.com/professor/1746653 |
+| 7 | Coursicle – CSCI 104 (Data Structures & OOP) | 196 student reviews tied to specific professor sections (Redekopp, Goodney, Raghothaman, etc.); course-level view lets users compare instructors teaching the same class | https://www.coursicle.com/usc/courses/CSCI/104/ |
+| 8 | Coursicle – CSCI 102 (Intro to Programming) | 64 reviews for USC's introductory CS course with professor breakdowns; covers the entry point most CS students share | https://www.coursicle.com/usc/courses/CSCI/102/ |
+| 9 | Coursicle – All CSCI courses at USC | Index of student reviews across every CSCI-prefixed course; useful for discovering which upper-division courses have notable feedback | https://www.coursicle.com/usc/courses/CSCI/ |
+| 10 | Koofers – USC CS professor ratings | Alternative review platform with USC professor ratings and student-uploaded course materials; covers professors who may have fewer RMP reviews | https://www.koofers.com/university-of-southern-california-usc/professors |
 
 ---
 
