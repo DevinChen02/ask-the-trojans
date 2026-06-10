@@ -1,0 +1,591 @@
+[Professor: Bill Cheng] [Course: CSCI 402] [Source: RateMyProfessors] [URL: https://www.ratemyprofessors.com/professor/913088]
+[School: University of Southern California]
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 3/5] [Difficulty: 2/5] [Would Take Again: Yes]
+A very meh class, not hard at all, but not very engaging either. There is a flipped classroom model which has a few benefits, but not great overall. The professor does make it really hard to not do well in his class though, which i appreciate, since the class is compulsory. Despite the class being in person, it is treated like a DEN class.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+The worst class you can imagine.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 3/5]
+Just started this class and this man does not care in the slightest. Course organisation is harder to understand than the content. Does not even bother to give lectures, all prerecorded and so dense in content. Speaks so fast it is hard to understand. Really dreading this semester with him.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 4/5]
+Professor assigns pre recorded video lectures from 7 years ago. He does not actually do lectures. During class time he just asks if anyone has questions. If no questions are asked he just leaves. His assignments poorly written and organised. Avoid like the plague. Within the first week no one was showing up for the class.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 2/5] [Difficulty: 4/5]
+rigid professor, said "uh" so many times during lecture that it got difficult to follow
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 3/5] [Difficulty: 4/5]
+Weekly labs, 5 PAs, and tests. Most amount of work I had for a cs class at USC since all the labs and PAs build off each other so you can't have an off week or else you will have a ton of stuff to make up.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 5/5] [Difficulty: 3/5]
+Such a touchable individual, nice professor, memorable for life &#128077;&#128077;&#128077;&#128077;&#128077;
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 2/5] [Difficulty: 4/5]
+While the content of this class is not too difficult, be prepared to be buried by the workload. Professor Cheng is a good guy and means well, but he buries you in documentation and is extremely concerned with sticking to the rules. Again, while meaning well, this can become extremely tedious when spending hours on fine details.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 2/5] [Difficulty: 4/5]
+throughout every single 80 minute lecture, he never stops talking/opens up the lecture for questions. he just freaking talks and talks and talks
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 3/5] [Difficulty: 5/5]
+The man is great - very responsive and helpful with course work. But makes class logistics very complicated and you will have to read and understand 5-10 page write ups for each weekly lab which is less than 1% of your grade. If you skip a lab, you will have a really bad time for the rest of the semester
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 2/5] [Difficulty: 4/5]
+The slide reading final boss!!!!!!!
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+Probably the biggest waste of time out of all courses taught at usc. Long useless homeworks that don't even teach you about the concepts of internetworking. Biggest pain is the useless homework assignments that are super long in detail and truly a waste of time. Awful course designer.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+Great professor. He responds within 24 hours. He also expects you to have a strong discipline and is willing to clarify the specs in high level. In PAs, I recommend following his advice since the labs and PAs build on each other.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Clear instructions & grading guidelines. U watch recorded lectures and attend live lectures for Q&A. Quick reply to questions. Mostly multiple choices in exams. Provides old exams but no answers cuz he reuses some questions. 
+Heavy workload but not too hard with the provided breakdown of steps and guiding timelines. Extra credit for early turn-in.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Extremely clear grading criteria, but SO MUCH WORK. Lots of pseudocode provided, but there is a LOT to read and he has a tendency to over-elaborate. Weekly assignments and 5 overall projects. Midterm/Final could be taken online, which was nice. Super accessible and responsive, but this class requires so much reading and he writes a LOT.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 3/5] [Difficulty: 5/5]
+Prof. Cheng is a great guy: he responds to Piazza, and his class is extremely organized in terms of logistics. 
+
+However, the assignments in this class is extremely time consuming. Combined with a heavy workload for other CS classes, the assignments can be extremely taxing and tedious to complete, especially with the I/O tasks.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+he reminds me of my dad lol. he has clear, strict guidelines for the class and explains them very well - follow them and you should be fine. PAs took me a while since I did a slow AWS vm thing, but the pseudocode makes them pretty easy! he's also very helpful in OH/over email - send him your code/questions and he'll respond ASAP!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+You'll either love him or curse him. There is no actual 'class', it's 8 hours (when watched at normal talking speed) of 7-year old videos per week recorded from his home. In his words he expects students to have 2-years of undergrad CS courses before taking this course which does not match course catalog.
+
+Use his odd grading to your advantage.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+I feel like I took a different course than the people below complaining that it was impossible--Cheng's website has all the pseudocode and video explanations you need to get the assignments done well. Big fan of how structured the course is.  Exams are tricky but identical to the previous semester ones he posts. Went to lecture twice and did fine.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Didn't mind this class. Yes, it's hard and a lot of work, and I will say if you fall behind it is probably really hard to catch up. There is however a good curve, and I thought grading was fair and well communicated. Cheng was very active over piazza/email, and gave helpful directions/pseudocode (imo). There are some great CP's in this class too.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+the final and midterm is only 40 minutes which is not a good thing btw, I have never had an final less than 2 hours even if it was short and easy. this class is definitely not easy and it so stressful to do 18-22 questions in 40 minutes which are NOT all multiple choice!!! PAs are difficult, there are so many labs and quizzes as well!!!
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+You don't get to learn much in this class. The PAs and labs have so many tedious requirements that it can take a lot of time to implement that it's not worth it. Not only that, the Linux VM used for the class is so outdated that it's VS code does not work properly. The only decent thing about the class is the grading curve as it is hard.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+labs and PAs are super hard. lecture is unbelievably boring. tests and quizzes are impossible
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+It's simply unbearable! You WILL suffer through the boring and non-helpful lectures, and you WILL suffer trying to do the labs and PAs that are simply designed to make your life hell. I am being honest, PLEASE AVOID
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+No matter how many times I attend the class, it's just a terrible class. Unfortunately, there's no other way to put it.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+lecture is very heavy and boring! PAs and labs are super hard and not worth spending time. I don't recommend this class!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+Don't explain everything verbally. 
+If you're going to explain only verbally, practice your accent.
+I can't hear what you are saying, therefore can't understand lectures. it's too uncomfortable.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5]
+There are so many weird rules in this class, everything is overcomplicated. PAs and labs and quizzes and midterm and final are all super hard and time consuming not to mention that you basically won't learn anything. the university needs to take a look at the criteria of this class. super outdated.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+Professor does not intend to teach carefully. Because of the large volume, his stance is that if we don't understand, we will leave us without catching up. Professor clearly states that the explanation of the class itself is messy. The slides are also messy, and it is better to find a text book that describes the subject carefully to understand.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 4/5]
+Everything is unpleasant.
+Why do I have to watch 10 hours of recorded lectures per week?
+The quality is so poor.The quizzes and assignments are all terrible. Past students might think they got good jobs because of this class, but that's a huge mistake. Anyone who can get a job after learning from this class could have gotten a job without it.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+I didn't understand or learn a single thing in this class. I got by through guesswork and ctrl+c. Tests/assignments are impossible to do otherwise. His "reverse classroom model" is really just an excuse to be lazy and abandon his students. Horrible waste of tuition money and time.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+This class might make you angry listening to lectures for hours on end.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+It's extremely painful.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+I don't understand what I'm supposed to be learning. This class is terrible. Even if we read a textbook or go through the PowerPoint slides, I can't get the quizzes right. I can't believe this class is mandatory. Operating Systems are important to learn, but it's going to be tough with this class. We should not lean it here.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5]
+No joke had to read more in this class than I did a philosophy GE course. Why are the instructions so long? It's all so inefficient and wastes student's time. I think the teacher just expects the students to understand it all. On surface it may seem structured but honestly a bit lazy because it's a repeating format if you ask me.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 4/5]
+Wanted to join the class late because I received D-Clearance second week of the semester. Asked for leniency and ability to make up work and was met with an unnecessarily rude email response for something that's out of my control. I'll be taking it another semester, but it doesn't seem like he's able to be cooperate for special circumstances.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 4/5]
+I am amazed at the low quality and just much information.
+we have to watch 5 hours of recorded lectures every week, but these recorded lectures are really awful. Presentation is really dirty drawing and also even at 0.75x speed, I can't understand because of stammering. Unfortunately,too low quality recorded lectures now.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+Bill has the most un-readable homework assignments -- each assignment is a 50 page .html font size 11 document on his website. The instructions are all over the place as well. Sometimes requirements for homework is on the slides for his lectures which aren't on the homework page.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+The "flipped classroom" model require you to watch ~5hr video each week. The assignments are hard but we learned a lot. You must master gdb skills to debug the kernel. Going through the kernel FAQ before starting kernel assignments will save you a lot of time for debugging. The professor replies our emails very quickly.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+This was the hardest class @ USC imo. Prof Cheng is super passionate about networking. The one tricky part is the labs and assignments because the instructions are lengthy and often times confusing to understand. Tip: make sure to do every lab because each lab builds off the next and every 3 labs turns into the PA.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5]
+This class is honestly insane, the amount of constant work you have to do is equivalent to a full time job.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5]
+This prof scheduled a midterm, a lab, a massive assignment, and a quiz in the SAME WEEK. Not only that, this was the week right after fall break. So you were either stuck studying or actually using your break. This is just uncalled for
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5]
+This is the most miserable experience I've ever had at this school. The assignments are beyond tedious, meandering, and are impossible to debug given how they build on top of each other. His website is impossible to parse and his descriptions are horrible
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 5/5]
+Prepare to work on a proprietary C++ framework with proprietary Internet protocol on some outdated Linux distro that doesn't have Valgrind. No VS Code. No CLion. No good developer tools. Just good ol' terminal and virtual box and you writing 2K lines of 90's style C++.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 1/5] [Would Take Again: Yes]
+Professor Cheng is the best. He is the most energetic professor I have ever seen. He repeats an answer to your question as many times as you want him to. Extremely helpful and motivating.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 3/5]
+The pre-recorded, outdated, fast-forwarded lectures are hilarious.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 1/5] [Difficulty: 5/5]
+Outdated content and classroom tools (such as the way to submit assignments and discuss questions). Outdated, heavy and hard assignments. The lectures are unclear and hard to understand, and the lecture speed is too fast. Everything about this class makes me feel bad, including assignments, lectures, quizzes and test.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+The best & most challenging course I took here at USC. Professor Cheng has great knowledge about the course and is very helpful. Piece of advice: The course load is equivalent to 1.5 grad level courses. Having it as a single course will give you the best experience. Watch/Rewatch prof's lectures or the assignments won't come by easy.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Amazing course, heavy on kernel assignments, but you will learn a lot in the process
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5]
+Legitimately the class w/ most homework. Prepare to spend at least 20hr+/week.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Socket,system calls,network protocols,multithreading are very important if you don't want to only do web dev and 353 covers them adequately. Bill is a nice person: provides both on/off line lectures,no-ask to waive midterm,late night Piazza. Teaches well too IMO. HOWEVER, PAs' IO format sucks. Valuable PAs are ruined by wasting time handling IO.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 2/5] [Difficulty: 2/5]
+While Bill Cheng is quite organized, he is also lazy and rigid. The class is asynchronous, and he reuses the exact same recordings and assignments each semester. Uses "fairness" as a justification for being incredibly rigid and unaccommodating. Gives a lot of useless, repetitive information - u have to decide what to listen to and what to ignore.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+This was by far the best course I have taken here at USC. The course is organized with perfection and the belief that we will receive a reply from the professor in 24 hrs was totally amazing. All the assignments were well structured, the extensive list of FAQs addressed almost all the concerns. Perfect blend of lectures + programming assignments.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 1/5] [Difficulty: 3/5]
+The format of the class if awful. No live lectures and you have to watch videos instead. Terrible
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Operating systems is one of the best courses USC is offering to the CS/EE students. The Kernel assignments (especially Kernal 3) are really difficult to solve. Professor Bill guides all of the students very well. His inputs are invaluable for the programming assignments and the in-class concepts. I learned a lot over the duration of this course.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 5/5] [Difficulty: 2/5]
+The "flipped classroom" model basically takes zoom to the extreme. One can learn through the semester only watching recordings, which sounds less like a course you want to take in a university. Grading & Homework are fair, and he gives extra credit for submitting early.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+An absolutely incredible course that equips you with a solid understanding of Operating Systems. The kernel assignments (especially Kernel 3) are quite intricate and require you to develop solid debugging skills in order to complete them. The professor is extremely accessible & knowledgeable - he promises to respond within 24 hours and ALWAYS does.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+You'll Learn ! A lot ! 
+
+Kernel Assignments are very interesting and very tough, and my team needed effort from the full team. A lot of it was helping each other work through problems.
+He's very accessible in the class google group.
+ 
+The grading curve is very, very nice.
+
+Lectures cover a ton of content.  
+Class broadened my understanding a lot
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+The GOAT course in USC. If you are into low level programming/computer networking this course is an absolute must !
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor provides strict guidelines about the assignments but you'll realize after doing the kernel-1 assignment why it is needed. Everything related to the course and assignment is clearly stated. The lecture material is very good and you'll definitely learn a lot in this course.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 3/5] [Difficulty: 4/5]
+This is a kind of Coursera courses in USC and I really don't like online video.  Though I learned a lot in this course, It is disaster to me that the professor insist on letting students watch course video rather than teaching students in person and reply "I cannot tell you what code to write" when you wrote email to ask him something.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+One of the best courses USC has to offer for CS students. 402 is a tough course and expects a lot out of you but it teaches you a lot in return. The professor is amazing and is easily available outside the class.
+
+This course helped me land a job at Apple.
+
+I recommend taking some light course on the side as this course is very time consuming.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5]
+The worst professor I have ever had. Speeds up his lecture videos. I didn't understand or learn a single thing in this class. I got by through guesswork and ctrl+c. Tests/assignments are impossible to do otherwise. His "reverse classroom model" is really just an excuse to be lazy and abandon his students. Horrible waste of tuition money and time.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+This course is outstanding. It helped me solidify my OS fundamentals and land an amazing job eventually. Professor Cheng is an excellent mentor. He guides all of the students extremely well. His inputs are invaluable for the programming assignments and the in-class concepts. I learned a lot over the duration of this course.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+The class was challenging for sure, but the content covered is great and you get to learn a lot. Professor explains the concepts well and makes it understandable. It is definitely a heavy course but worth it, you also get hands on experience with coding and building your own kernel. Overall, my experience and learning was awesome.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Most people taking this course are CSSE students but this is not an Intro to Computer Science course. You are expected to have programming experiences in C and you need to work very hard to finish the assignments. Overall very good materials and assignments and Professor is very responsive.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Professor Cheng is very organized and clear about everything. You know all the deadlines for the whole semester from the first day of class. He responds to Piazza posts and emails pretty much immediately. The class is a lot of work, but it's very instructive and useful material. Great professor, great class!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 4/5] [Would Take Again: No]
+This man speeds up his course video to fit in the course time limit. The course architecture is a disaster. He uses course prerequisite as an excuse for the terrible content arrangement. The majority of students are CSSE students. How can a transfer major student take an undergrad course ??? I got an A but he is an absolutely terrible teacher.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+402 is the HARDEST but the best course in USC CS, do not be scared by its difficulty, it is worth. You will learn lots of helpful knowledge during this course, and after going to real-world problem-solving, you can then find nothing can stop you, because that course already taught you how to deal with it. Highly recommend to everyone in USC cs/ee
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+402 is the best course in USC, pick that, and you would learn a lot! He is always online, and answer students questions, though sometimes, his answers are not good enough. The core and best part of 402 is its project, weenix, if it is possible, you should do it yourself, you would learn lots of useful things for your furture working!
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+CSCI 402 was one of the most challenging and amazing courses I took during my Master's program and it is all because of the well structured and very nicely explained lectures by the professor, discussion sessions, all the help and guidance from the professor and the TAs. Will definitely be one of the best courses in USC according to me!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+This is the worst class I have ever taken. The lecturer speeded up the video to make it difficult to understand, and the test is totally ridiculous.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 3/5] [Would Take Again: No]
+The worst professor I have ever seen in USC. Not publish the exam answer, do not answer your questions, a lot of errors in the slides and assignment. Bad text book choose and will not let you ask more questions about that.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+If you're trying to truly learn the material, definitely take this class with Bill. In all my time at this school, I don't think I've ever met a teacher who designs their curriculum as thoroughly as he does. He has very clear rules, doesn't play favorites, sticks to his schedule, and runs class with consistency, you'll never be the dark
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+This is the worst course I have taken in USC. I have to say this course totally makes me hate OS. I don't want to touch it anymore in my life. Bill is not a good lecturer, he accelerates his lecture video to be really fast. And we are taking this course in a short semester. So, the lecture became very heavy. The course load is 3x normal work load.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Prof Cheng taught me OS concepts in a way that I will remember for the rest of my life. His attention to detail and clarity of thought is mind blowing and sometimes I could not even believe how knowledgeable someone can be. The projects were hard, but I loved them. They taught me invaluable skills that will be useful for years to come.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 3/5] [Difficulty: 5/5] [Would Take Again: No]
+I found this class very difficult (The emerging COVID-19 situation definitely added to that). His lectures cover a lot of material, but I found his examples to be few and far between. He was always available to answer questions via a google group, but I largely found his course did not help me understand the subject matter.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Professor Cheng is a great Professor! His workload is pretty heavy in the class and I would clear out anywhere from 5-15 hours of week of homework if you want to do his assignments correctly. He clearly cares about his students and will stay up until late hours to answer piazza posts or emails. Overall, it is not an easy class, but I learned a lot!
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Prof Cheng is a world-class lecturer -- no doubt. I studied at a top 10 uni (world ranking) for a semester, and I can confidently say that he belongs to the top 10 uni caliber. Detailed, rigorous content, standardized testing, absolute fairness, and considerate personality. Viterbi is lucky to have him onboard. Take him for world-class education.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Programming assignments and labs are very time consuming, but the specs are very detailed. The professor is on Piazza answering question EVERYDAY late into the night. He makes sure the rules are painfully clear, grades fast, and is one of the hardest working professors. One downside is not very inspiring, as I really don't want to pursue CS after.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Incredible effort, from comprehensive slide decks to writing specific assignment write ups to answering Piazza in minutes. Detail oriented, adheres to a policy of providing absolute fairness to all students. Exams carry a lot of weight and a portion is just memorizing. Great assignments, broken into manageable size and cumulative through whole sem
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Bill is a good teacher. Goes a little fast In class but things can be reviewed later. The majority of the class is programming which gets quite tedious towards the end. The course is basically creating a peer to peer program. Great class if youre interested in learning about internet protocols
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Can't believe someone is complaining about getting more lecture time for FREE. I only felt grateful that I met such a responsible and nice professor who wanted his students to learn more knowledge. Yes, this course was not easy, and there was so much material covered, but I also learned a lot! Definitely recommend it.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 2/5] [Difficulty: 5/5] [Would Take Again: No]
+- in covid 19, he couldn't finish his lectures in time so he went overtime by 10 - 60 min each lecture instead of changing his syllabus - unwilling to accept feedback - closed his course evals prematurely and never informed students when they opened - extensive work- projects are extremely tiring/difficult and he is usually unwilling to accommodate
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 2/5] [Difficulty: 5/5] [Would Take Again: No]
+For a class designed for people with no CS background, the material is way over the top. With no computer architecture background, a lot of the material will be gibberish. Professor talks super fast and throws a lot of details. He does try to help you out. No interest in OS development? Find a good homework partner and try to pass the class.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 1/5] [Difficulty: 3/5] [Would Take Again: No]
+Take it if you wanna get confused about OS. The most ridiculous rules ever seen. Argues with students in the google group instead of answering the question. He says &quot;I don't know&quot; too much for even course related questions, Just stop teaching if you don't know. I caught him answering wrong to students. Midterm was online but too short time.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 2/5] [Difficulty: 3/5] [Would Take Again: No]
+-loves his rules -tedious assignments-- he even calls them tedious himself -skipped office hours twice because he was afraid of getting sick -seems nice enough -leaves out details that are crucial to completing assignments -too much tedious work for an upper division class
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Must say that this was the best course I have taken so far at USC! Mid semester you might be wondering what you have got yourself into but you will know how much you have learnt once you finish the course! And in addition, doing OS at USC is a brand stamp for recruitment &#55357;&#56841;
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+Really great prof. Really cares for his students.
+
+[Professor: Bill Cheng] [Class: CS353] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Professor Cheng is a solid choice. The class is full of concepts but he explains everything fairly well. He's very helpful with the assignments, especially debugging. All materials are online and grading criteria are extra clear. The cons: sometimes talks too quickly, and assignments are time-consuming. A good cheat sheet will save you in exams.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 3/5] [Difficulty: 5/5] [Would Take Again: No]
+You will learn a lot at the end of the course. But the coverage is way too vast because of which he goes really fast. Despite the difficult projects, the exams have more weightage. Need to memorize all his slides for the exam. Make sure you salvage all possible extra credit. Might be an overkill if you're not interested in pursuing this field.
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+If you want to learn something really hard, but taught poorly by all means take this class.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Expectations were pretty high, and the course delivers! Probably one of the most useful courses. OS dev won't seem like alchemy anymore. If you want to tackle the harder challenges in assignments, it would be wise to use a separate branch since final assignments will tie everything together, so you want everything to be correct. Have fun!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+The best professor at USC without doubt, his class is the best organized class you will find Explains the stuff pretty well.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+Literally one of, if not the best(and toughest) course and Prof in USC CS
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+One of the best Prof in USC. You dont want to miss his class
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Heavy project work cool examinations (MCQ) type . One of the best professors in USC.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+One of the best professor I've met in Viterbi. He is so familiar with everything about OS. His lectures are compact, fast-paced and smooth. He also spent a lot of time to answer all of the students' questions in Google groups that I have to unsubscribe the email notification from that group.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Definitely a tough course, exams are difficult and requires really thorough understanding of materials. Every coding HW is a struggle for me, but I managed through and learned a lot. Lecturing is a bit dull (but informative). Mandatory attendance is a minus. Definitely recommend this course to those who want to challenge themselves.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+I learned my operating system concepts under him. A lot of hands on project and assignments. Really enjoyed working on my final OS project
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+He is a great lecturer, but makes you work hard
+
+[Professor: Bill Cheng] [Class: CSCI353] [Quality: 1/5] [Difficulty: 4/5] [Would Take Again: No]
+This guy likes to give endless amounts of work. The programming assignments aren't hard; however, there are so many specifications that don't necessarily make you understand the material better. Avoid him if you're an undergrad. He also teaches from the book and doesn't even use his own lecture slides. Might as well just read the book yourself.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+He is one of the best professor ever at USC. He teaches really well. Everything is so organized in his class. I wish he taught other subjects too.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+I totally recommend this course for CS students in USC. It is worth taking this course. Professor is so clear in his course material and fair to everyone. He is fair to each and every student in class. Coursework is designed such that you will understand many how and why questions related to OS and computer itself. I totally enjoyed the course.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Lectures are very delineated and often even corrects the textbook.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Great Professor. Really teaches the concepts very well. I took CS-402 under him. His projects, although repetitive, are very useful and if you work hard towards them they will be very useful, both for other classes and for interviews. He gives a lot of extra credit so getting anything less than a B+ in his class is not possible.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Thorough rule, very caring, answers from Google Group is fast and juicy no matter how trivial the problem is, great prof!!!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+CS 402. This course under him is one of the best options for USC CS students. Assignments and lectures are good.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 5/5] [Would Take Again: Yes]
+Overall, an excellent class. If you put in the effort you'll learn more than you've ever learned before. Having said that, be prepared to work more than you've ever worked. On busy days, I was working 10-14 hours per day. Unless you take it during summer, your other course better be easy.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+Great teaching, amazing assignments but a tough course
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 4/5]
+Class was done very well. Lectures were very well prepared and clear. The group projects were hard but made me understand how OS's work. The last project is extremely hard. Overall a fantastic class. It has made me a better software engineer.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5]
+He has his own way of teaching, lectures are informative, assignments are challenging, tests are tricky. I would like to take another course under him. He is inspirational to many.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 1/5]
+Prof is very clear with what he is teaching. Grading guidelines are damn clear. Assignments, syllabus , exams everything is pre-decided and  transparent. CS402 course is hard but made it simple by prof.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 1/5]
+Great  learning experience
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 4/5]
+Good Professor. Lengthy lectures and long assignments but clears your concepts. Helps you learn a lot.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 4/5]
+Good course although assignments are very time consuming.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 5/5]
+Great prof. Hard course though.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+Well organized,  very useful class
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 3/5]
+Professor is a stickler for rules. Stick to them, and it will hold you in good stead. Clear grading criteria. Exams are decently tough, everything is conceptual based. Kernel assignments 1 and 2 are pretty easy; if you wish to complete kernel 3, you will need a good team and a lot of time.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 3/5] [Difficulty: 3/5]
+Professor knows is stuff Syllabus has vast coverage, complete knowledge of what he covers in this course will hold you in good stead in most systems side interviews Kernel assignments complement the theory material well Kernel 1 and 2 are manageable Kernel 3 is extremely time consuming. This course will take up 1/2 ur semester
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 3/5]
+Excellent kernel assignments, makes you understand the material better. Be sure to attend lectures to get extra credit. Extremely helpful. Be sure to follow his rules!
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 3/5]
+Class is good. Kernel assignments 1 and 2 are not that difficult, they can be done in 1-2 weeks. However, kernel assignment 3 takes at least a month to get the whole thing working. Exam questions come straight from the slides, but you gotta understand the concepts clearly cause questions are tricky. His explanations of slides are good but boring.
+
+[Professor: Bill Cheng] [Class: APPLIEDCRYPTO] [Quality: 1/5] [Difficulty: 5/5]
+He is very brutal with his grading and the assignments were totally irrelevant wrt industry standard.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 2/5]
+Awesom Prof. Teaching is not that great but the assignments make you work your ass out, you will in turn learn A LOT. Exams are not so hard. Grading is pretty good and fair. If you get a chance to take cs402 under him, JUST TAKE IT
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 1/5]
+teaching is good. All assignments are good except the last kernel which is not necessary unless you specialize in systems.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5]
+useful class
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 2/5]
+Assignments help learn a lot. Lectures are good.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 2/5]
+very very complex assignments. Some assignments seems worthless . Lecture are quite boring and monotonous. But professor's explanations of topics are good.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 5/5]
+Professor Cheng did a great job to teach this course!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 2/5]
+Overall a good professor.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5]
+Good Professor but assignment guidelines are a bit difficult to follow .
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 3/5]
+useful for students who want to transfer to cs
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 1/5] [Difficulty: 5/5]
+There are so many restrictions. Output has to be exactly the same in assignments. Answers in exams have to be less than the specified number of words which are 5-10 words mostly. If you don't mug up the exact words, then you are doomed in the exam. This is a pathetic course. Total waste of money.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 2/5]
+Excellent Professor. Very well organized projects and assignments. Encourages discussion among students through google groups. Easily approachable and ready to help. His exams are purely based on slides and its pretty score good grades in exams. OS under Cheng is worth the course!
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 2/5] [Difficulty: 4/5]
+The slide is just coping everything from the book. Some of the slides are vague or even wrong! The professor has not taken time to organized the material and he spend too much time repeat the same material. The final project is difficult and the professor will answer your question, but he will not teach the skill you need to conquer the project.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5]
+A very dedicated professor and explains very well. Supports students to a large extent and is very encouraging. Learned a lot from this course. The Professor puts in lots of attention and effort, which is evident in the slides which have step by step code flow.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+The kernel assignments are not easy but we all know OS is not easy, right? Anyway, Bill gives a good grade for students who really follow his schedule.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+Good points: 1. good coursework and great assignments! 2. Always helpful with the assignments as they do need discussion to solve. 3. Explains points clearly. Areas that need improvement: Exam pattern 2. Prof needs to draw attention from students
+
+[Professor: Bill Cheng] [Class: CSCI4030391] [Quality: 3/5] [Difficulty: 4/5]
+The method of evaluation is too bad. They look for the exact number of words instead of the content, also students cant be book worms. They should look for their understandings and inteligence
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 1/5]
+Assignments are really good and can learn a lot from assignments. It helped me during my internship interviews and also honed my programing skills. Course is very well structured :)
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 3/5]
+Recommend this course with Prof. Cheng. Extremely important course. Bill explains the things clearly. Project is really fun. The only downside I experienced was the exams. Midterm and final are silly as it was like reciting the slides
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 3/5] [Difficulty: 3/5]
+The assignments are interesting, but the classes are not. Should explain the concepts with general examples rather than code as that would be clearer. Also, he should be a bit more succinct while speaking.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 2/5] [Difficulty: 3/5]
+Assignments are good and challenging but needs to draw students attention better
+
+[Professor: Bill Cheng] [Class: CSCI558L] [Quality: 5/5] [Difficulty: 1/5]
+Good Professor and great clarity. Good projects and with good approach.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 3/5]
+PROFESSOR CHENG IS REALLY GOOD AND PAY GREAT ATTENTION TO DETAILS.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+Projects are great for Resume. Lectures get a bit monotonous- could be made interactive. Overall a good course and beneficial for getting internships.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 4/5]
+The course structure is very good and assignments are very helpful. But, Prof. Cheng needs to make lectures more interesting and interactive. I found lectures monotonous.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+Good projects.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 3/5]
+Recommend this Proff !
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 2/5]
+He was a great Professor, Jolly and friendly. His assignments were very good.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 1/5]
+He his very motivating Professor!...:) encouraged me to do well in the finals
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 1/5]
+Good Professor!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5]
+He is a kind professor
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5]
+Good Professor
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 2/5]
+This is the only course I took on kernel and it is very helpful. The lecturer clearly explains every points.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 4/5]
+This is a very helpful course. And Bill taught very well!
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 2/5]
+He is nice professor but you need to be catchy in the class to understand the stuff .. Tip is read the topic before attending the class and attend all the classes at higher priority helps to clarify the doubts, very helpful and very clear with programming concepts
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 2/5]
+he gets you ready for any os interview, you'll learn a lot
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+If you want to crack any interview related to OS, this course is the key.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 3/5]
+The concept and the material on class is not that hard but the project is not that easy.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 5/5] [Difficulty: 3/5]
+The course is very valuable in terms of its project, and do a big amount of favor if you can memorize things on lecture notes. The thing is, the concept of operating system is a kind of nested, if you cannot review the lecture on den, you will definitely fall behind.
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 4/5] [Difficulty: 4/5]
+Excellent course work and projects. The concepts are very interesting and are discussed as much as it is necessary. Since the course domain is very vast don't expect spoon feeding.
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 4/5] [Difficulty: 4/5]
+Very helpful professor and gives good coding assignments which will help you a lot
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 2/5]
+Great professor and his teaching is excellent. You have to be really concentrating in this class, otherwise you will be lost. If you sit and listen to his class properly, I am sure you will know how good he is. He is also very helpful during office hours.
+
+[Professor: Bill Cheng] [Class: CS570] [Quality: 5/5] [Difficulty: 3/5]
+I like this Professor and the course he taught! I'm not a CS student but still can catch Cheng's class which is really important to me!
+
+[Professor: Bill Cheng] [Class: CSCI570] [Quality: 4/5] [Difficulty: 2/5]
+The lectures are not so bad as some other people comment. Algorithm is a difficult course, and if you don't do some pre-course reading, you will get lost during the lecture. Most importantly, his lecture slides are full of key points and examples. This is good if you want to review the course material after a long time.
+
+[Professor: Bill Cheng] [Class: CSCI570] [Quality: 5/5] [Difficulty: 2/5]
+very clear and would go back and explain whenever asked
+
+[Professor: Bill Cheng] [Class: CSCI570] [Quality: 4/5] [Difficulty: 3/5]
+Overall it's pretty good.
+
+[Professor: Bill Cheng] [Class: CS570] [Quality: 4/5] [Difficulty: 1/5]
+Nice professor.
+
+[Professor: Bill Cheng] [Class: CS570] [Quality: 5/5] [Difficulty: 3/5]
+very interesting class!
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 5/5] [Difficulty: 1/5]
+He made operating systems very easy to comprehend..
+
+[Professor: Bill Cheng] [Class: CS402] [Quality: 2/5] [Difficulty: 4/5]
+Tends to read lecture notes verbatim. Exams require rote memorization. Lengthy programming assignments which evidently are written to filter students. Aggressive, complex, but fair grading policy.
+
+[Professor: Bill Cheng] [Class: CSCI3024] [Quality: 1/5] [Difficulty: 5/5]
+Worst teacher I have ever had. Does not present content clearly (basically read the slides), does not help with assignments, does not interact with students. Projects extremely complex and useless. If you can choose another instruction, avoid this one. Only good point: tests are easy (but you have to memorize exactly what he wants).
+
+[Professor: Bill Cheng] [Class: CSCI402] [Quality: 2/5] [Difficulty: 5/5]
+A good course made crappy with crappy assignments. Half baked knowledge of the subject. When asked doubts, replies with "Don't know, can't say". Really does not know anything about the assignments he gives us. Crappy text book as well. Stallings or Silberchatz is way better. Exams require mugging up
+
+[Professor: Bill Cheng] [Class: CSCI102] [Quality: 1/5] [Difficulty: 5/5]
+literally the worst professor I've ever had. reads off his slides and knows nothing. programming assignments are very restrictive and inspire no creativity
+
+[Professor: Bill Cheng] [Class: CS200] [Quality: 1/5] [Difficulty: 4/5]
+Made me rethink the caliber of USC's school of engineering (it's really not as bad as he makes it seem). Stated several times that it is a research university and that he basically doesn't care about teaching. It shows. His slides are terrible and he doesn't even understand everything he puts on them.
+
+[Professor: Bill Cheng] [Class: CSCI102] [Quality: 1/5] [Difficulty: 4/5]
+I came into CS102 loving the subject and everything related to it. I never thought a teacher could actually make me NOT like my major. His lectures are boring and simply him reading off his slides, which arent very good to begin with. He restricts your freedom when coding and makes it a torturous class. This class makes me want to change majors
+
+[Professor: Bill Cheng] [Class: CSCI200] [Quality: 1/5] [Difficulty: 3/5]
+After two semesters of Cheng, I am hoping CSCI department at USC improves...Very unclear, and unhelpful. Neither him nor the TAs really seem to care at all about the students work or grades. He doesn't encourage anything fun but rather makes guidelines on tedious projects extremely specific and limiting, and then tests on isolated, useless material
+
+[Professor: Bill Cheng] [Class: CSCI102] [Quality: 1/5] [Difficulty: 4/5]
+Not a good teacher at all.  He is very confusing in class, and often times when people ask questions, they confuse people more.  He reads directly off his confusing slides, and his examples are very unclear.  Go to the TA's for help, otherwise you'll end up teaching yourself most of the things in class.  Avoid if possible.
+
+[Professor: Bill Cheng] [Class: CSCI102] [Quality: 1/5] [Difficulty: 4/5]
+HORRIBLE professor.  Reads directly from the slides which themselves are unclear.  Even in his office hours, he is terrible explaining the content. His assignments are demanding and his exams are nothing like what you'd expect. Avoid if possible!! (which is difficult given USC's CSCI dept.)
+
+[Professor: Bill Cheng] [Class: CSCI200] [Quality: 1/5] [Difficulty: 3/5]
+Definitely not a good professor.  Changes requirements for things without updating the spec sheet, horrible grading policies, and doesn't really know what he's doing.  Doesn't explain well.  Best to get the book and teach yourself, since he isn't very helpful or specific.  Also, his exams test unimportant stuff, not any meaningful applications/use.
+
+[Professor: Bill Cheng] [Class: CSCI102] [Quality: 1/5] [Difficulty: 4/5]
+Quite possibly the worst teacher at USC. Doesn't teach, only reads off slides. At office hours he tells you to reread the slides or go to the TA. Not helpful, not very nice.
+
+[Professor: Bill Cheng] [Class: CS200] [Quality: 1/5] [Difficulty: 4/5]
+Cheng is, I would hope, one of the worst professors at USC. At the start, he stated he was learning Java along with us, and it went downhill from there. He just reads off of the slides, which he barely understands to begin with. Try to wait until someone else is teaching CS200 if you have to take it.
+
+[Professor: Bill Cheng] [Class: CS102] [Quality: 1/5] [Difficulty: 4/5]
+Honestly worst teach I've had at USC yet. He does not teach. He just reads the slides and talks about 5 new concepts each class then in the last 10 minutes he runs everything. His whole process is illogical - everyone is left feeling confused/frustrated. If you go in for office hours he just tells you to review the slides again. Self taught class.
+
+[Professor: Bill Cheng] [Class: CSCI200] [Quality: 2/5] [Difficulty: 5/5]
+Reads Directly from the slides. No structure or format for the class. Told us on the first day of class, &quot;I've never taught Java before so this might be a bad semester.&quot; He constantly changes the requirements on the HW after people have already started. Avoid if possible.
+
+[Professor: Bill Cheng] [Class: CSCI551] [Quality: 2/5] [Difficulty: 4/5]
+I wouldn't recommend csci 551 to anyone who's taking a heavy load. No test reviews and doesn't even like to give much info about the exams. Be prepared to know EVERYTHING.
+
+[Professor: Bill Cheng] [Class: CSCI102] [Quality: 4/5] [Difficulty: 2/5]
+Solid professor, can't go wrong with this one. Lectures are pretty straight forward, homeworks assigned are pretty interesting. He is very organized but also strict with his grading policies. Very friendly in office hours.
+
+[Professor: Bill Cheng] [Class: CS551] [Quality: 5/5] [Difficulty: 1/5]
+Lots of work but good grades
+
+[Professor: Bill Cheng] [Class: CS551] [Quality: 3/5] [Difficulty: 4/5]
+Lots of work and not enough time.

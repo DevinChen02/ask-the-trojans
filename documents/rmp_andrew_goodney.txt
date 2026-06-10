@@ -1,0 +1,613 @@
+[Professor: Andrew Goodney] [Course: CSCI 104] [Source: RateMyProfessors] [URL: https://www.ratemyprofessors.com/professor/2163737]
+[School: University of Southern California]
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 2/5] [Difficulty: 2/5]
+Lectures were not helpful, you're better off self studying. Professor himself can be rude when talking to him outside class. Class is easy though and grading is set up for everyone to do well
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 1/5] [Difficulty: 4/5]
+The course is valuable itself, but don't take his class if you want to LEARN something from lectures. Get ready to study completely on yourself, his likes to reading off the slides and gives harsh exams, and he always make last-minute announcement to the test.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 1/5] [Difficulty: 4/5]
+I stopped going to class one week in because he just reads off the slides, and his pace is way too fast. I had to study alone to get an A. Each exam covered more than 10 presentations with 30 to 60 slides each, so there was a lot of content to go through. It's unfortunate because he's a nice and understanding person, but just a bad lecturer.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Lectures are a bit boring, he mainly reads off the slides. He seems like a nice person, but I wouldn't know bc I didn't really talk to him. Slides are posted and are pretty useful for studying for 1st midterm and final.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Prof. Goodney was pretty okay and was a warm and nice person to talk to. His lectures were mostly read-off at the beginning, but he would answer questions and explain harder topics. His written exams had some very niche questions, but it's made up by his VERY generous grading rubric. As long as you understand the material, you should get an A.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 4/5]
+It's not impossible to get an A, but you do need to work for it (which is fine). However, the lectures are extremely dry and simply read off slides, making skipping and learning on your own to ironically be a better use of time. I did appreciate the clear grading guidelines, just keep up with HW/projects/labs to really hone in on what's going on
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is NOT the GOAT. I learnt the material by myself since Goodney's lectures were unhelpful. Constantly changes what's going to be on the midterm just a few days in advance, which is annoying. However, I did think grading criteria was clear and the point system was helpful.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Lectures are a little boring, he just reads off the slides and goes through concepts one at a time. It's not that hard of a class if you've coded before. Projects and homeworks can take some time so start early. Okay professor, I'd take someone else if you could.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 1/5] [Difficulty: 3/5] [Would Take Again: Yes]
+always changes what is included in the exams in the days and even hours before them. once decided on the day of a midterm that he was going to allow us to use cheat sheets. added new topics two days before another midterm. just skip class and skim slides, you won't learn anything during lecture. i regret wasting time going to class.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 2/5] [Difficulty: 3/5]
+Beware of taking his class, he doesn't update the course website properly or punctually, and ended up changing what would be on the midterm exams less than 72 hours before the exam. A lot of homework and projects, which can take a long time, so start early on all his assignments. Bad lecturer, reads off the slides in a very monotonic voice.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 1/5] [Difficulty: 5/5]
+don't take this class with goodney. he is awful. changes content on midterm all the time and last minute. sleep inducing lectures. run.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 1/5] [Difficulty: 4/5]
+mid term 1: originally did not allow cheatsheets and announced that we could bring a cheatsheet with notes 6 hours before exam
+mid term 2: announced syllabus ~10 days before exam. removed a "guaranteed link list" topic from exam ~5 days before exam. added two extra units (copy constructors, assignment operators, overloading) TWO days before exam.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 3/5]
+The lecture is just reading off the sides, so just listen to some better video or textbook outside. The homework is more than 103 but still manageable if you do it early. The test is hard as it asks many conceptual stuff that you have to memorize and many fill-in-the-blank, which is annoying. You could get an A in this class, but try to avoid him.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+104 is a weeder class. Despite useless lectures, he provides help in OH and has a well structured class. He also is much nicer with late homeworks, bumping, and leniency than other profs. His exam grading is a complete joke, Ive gone from 76 -> 94 on exam just from spamming regrades. Shifting the grade scale is fair imo because class avg was flat B
+
+[Professor: Andrew Goodney] [Class: csci356] [Quality: 3/5] [Difficulty: 3/5]
+He's alright. Nice guy but not the best lecturer (he uses terms which assumes you already know a lot about computer systems and C in general). Fortunately Prof. Paolieri's lectures are available online which saved me.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 1/5] [Would Take Again: Yes]
+GOODNEY IS THE GOAT
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 1/5] [Difficulty: 5/5]
+Extremely boring lectures with unclear explanations. Attend his lectures if you want a nice nap. 
+
+Huge ego. Make condescending comments on student's questions. He enjoys making fun of students. 
+
+Overconfident in his mastery of English. Exams focus more on reading comprehension instead of coding, with lengthy and ambiguous questions.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Nice, engaging lectures. Exams are pretty hard so definitely familiarize yourself well with all the concepts. 6 hws with each taking around 4 to 8 hours. Gets the job done.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 1/5] [Difficulty: 4/5]
+Tell me why I found out the grading scale shifted in the past few semesters. How is it fair that previous semesters got 85 or even 80 as an A, and we get 90 as an A? The average for Midterm 1 was a 70, and he never released the average for Midterm 2 (from what I've heard, it was LOW). After seeing my final exam grade, there better be a fat curve.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 1/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Makes perfectly no sense for making the A cutoff from 85% to 90%. Claimed that Cote's exam is kinda harder(but we all have average around 55%). There are also TAs accusing me cheating randomly, and some of them don't know data structures that well themselves. The materials are not bad, tests are hard but expected for 104, but u r on ur own
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 2/5] [Difficulty: 3/5]
+He reads from slides and can explain things in a hard to understand way. However at several points he has said condescending remarks. He straight up laughed at the students when someone asked if there's a curve. He sent me a condescending email when I told him my grade was wrong(issue in grade transfer) He then gave me a grade lower than I earned
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 1/5] [Difficulty: 5/5]
+Not only is this professor a slide reading king, him and his partnered professor treats exam difficulty solely on a class average statistics. 16 pages of short answer questions related to reading recursive code just because the class did a little too well on MT1 is straight evil.
+Assume the worst for exams and fight the graders for your points.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+one of the best profs i've had at usc. cares a LOT about his students, really accessible and kind. not an outstanding lecturer. won't make you feel stupid for asking questions. v involved, responds to piazza posts of students often (also hilarious on piazza n in person 1 on 1). lengthy, ambiguous exams. curved 103, hope he does the same for 104.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 2/5] [Difficulty: 3/5]
+Lectures are quite dry and boring, I find myself more engaged during the short 10 minute lecture that lab instructors give. The midterms are really lengthy and sort of remind me of AP CS exams.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I'm not gonna lie I truly am not a fan of the way he lectures but the material isn't hard if you try practicing on your own and keeping up to date with projects/homework. His grading scale and how he distributes it (lowest test grade gets a lower percentage than highest) honestly saved me. He is really nice and is helpful one-on-one!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I got A because I learned most of them, but for people who does not know any c++, it's hard. The project, especially the last one is quite lengthy, and the online editor Codio is VERY hard to use, and you CANNOT you your own IDE. The test is also quite hard but mostly tricky, even for me. But if you put time to do homework, you should be fine.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I get a good grade because I have learnt most of them before, but there's indeed many students that has not learned any c++ before. They were struggling. The last project is quite lengthy and requires you to use the poor online editor rather than your IDE, and the test is also pretty hard and tricky, even for me. But overall, it's fine, not too bad
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 1/5] [Difficulty: 4/5]
+Unsure why this professor structures his course every time like his students are guinea pigs for the semester. He does weird things each semester with how he does tests and it makes it an unnecessary burden for his students. Really weird about providing actual good feedback on EdStem, often times his replies are just straightup mean/unnecessary.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 2/5] [Difficulty: 3/5]
+Would just read off slides during lectures without any of his own explanations. When asking him clarifying questions during lecture, he would just restate what the slides said, which made comprehending topics difficult. Lectures were not recorded or accessible through Zoom.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 2/5] [Difficulty: 4/5]
+Knowledgeable man, horrible lecturer. Just reads off the slides not made by him, and offers unhelpful unfunny anecdotes in between. Sometimes rude and condescending. Lots of mistakes in writing question + they're worded ambiguously. Generous grading for the programming exam, with a retake offered. Start projects as early as possible.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 2/5] [Difficulty: 3/5]
+kinda egotistical and rude. doesn't record lectures
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I had Prof. Goodney for 103 and 104. Class expectations are clear and assignments are easy as long as you start them a week before their due date. Some test questions are worded ambigiously IMO, but the grading scale is curved generously. The class is easy in hindsight but may be overwhelming while taking it (got a B for slacking before exams).
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 1/5] [Difficulty: 5/5]
+Exams are super hard. They messed up on the programming exam, but still yet didn't help adjust our grades. For lectures, he just reads off the slides and doesn't even write on them or anything, which makes it confusing at times. Projects and homeworks are also very long and hard, which is ok, but not okay considering his lecturing skills.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 2/5] [Difficulty: 4/5]
+This is a review on the SA/TA's this semester as well
+
+The tests were genuinely poorly designed where many things either did not work as intended (coding midterm tests) or specifically designed as trick questions that'll lose you points because future questions were reliant on said questions.
+
+The lectures were basically just reading the slides.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+GOATney is a real one
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Don't get the negative reviews, tbh. Lectures are decent. Homework and projects are time-consuming but great learning experiences. The tests are reasonable: no curveballs, nothing you can't logic your way through. Not an easy A but not impossible by any means.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 5/5] [Would Take Again: Yes]
+I LOVE ANDREW GOOEDNEY!!!!!!!!!!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 1/5] [Difficulty: 5/5]
+Unclear lectures that essentially turn this class into a self-study. Ambiguous questions where points get taken off for not writing the desired correct answer out of 3-4 possible correct answers that work for the question's wording. Thinks that 5 typos on a midterm "isn't too bad".
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+The professor's lectures can be dry and unclear at times, but using Unstuckstudy along with the course textbook helped me stay on top of the material. The assignments were doable if you don't procrastinate, and the final grade curve was generous.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 4/5]
+Had him for 103/104, and he wasn't as good the second time. Lectures were just as dry; you could never tell whether what he was talking about would be on the exam, and all the information kind of blended together into meaningless mush. At least he curved the final grade really hard (presumably because everyone failed both exams)
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 2/5] [Difficulty: 2/5]
+the worst lecturer I've ever had lmao. Reads from the slides and when he can't give a good explanation for a hard concept (he usually can't) he just says "hope that makes sense." Just read the lecture slides by yourself. the upside is that he's considerate of students and pretty lenient about grading/extenuating circumstances.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Solid professor. Assignments were reasonable IMO (AVL took a longer but most weren't like that). Tests were on the more difficult side, but an A should still be very achievable if you just study, especially since labs are free, and coding assignments should be full credit if you don't procrastinate. idk why everyone complains about this course.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 2/5] [Difficulty: 4/5]
+Professor Goodney's teaching is poor af. He treats students badly and will give mean comments if you ask for something fundamental. What the most important is, that he totally changed the course's grading system to lower students' letter grades intentionally, I got an 84.8 which was an A last year but a B+ this time, never want to see him again.
+
+[Professor: Andrew Goodney] [Class: csci356] [Quality: 1/5] [Difficulty: 3/5]
+Huge ego, bad teacher. He teaches a section but Paolieri runs the class. Lectures so bad i stopped going, but good thing Paolieri's recording is available, got an A bc of that. Extremely rude with regrade requests too, reject totally justified request with mean comments, good thing Paolieri corrected it. Just take 356 with Paolieri or Redekopp.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 1/5] [Would Take Again: Yes]
+Fascinating professor with amazing lectures. He receives many negatives because he doesn't record his lectures, where many vital contents and thinking skills are taught - which you can easily miss and unable to make up for every lecture missed. He is easy to approach, shares his hobbies, and would actually remember you. A if you attend his lectures
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 1/5] [Difficulty: 4/5]
+I disdain this man. He changed the whole grading system, making it harder from now. Last year 80% was an A, and now 80% is a B. It's a data structure class it's going to be hard af. And he weighs a lot on exams. Even though you do rly good on your assignments, a bad test ruins everything. He's an unfair and bad professor. SO BAD.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 1/5] [Difficulty: 3/5]
+why does this guy have such a high rating ? never want to see him ever again
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Had goodney for 103 and 104. Didn't feel like his teaching really affected my grade at all in this class, I studied on my own and didn't go to lectures. 104 is not that hard, I found it easier than 103 just make sure to start working on all the projects as soon as they get released. Tests aren't too bad either.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 2/5] [Difficulty: 3/5]
+I've tried very hard to like Goodney, but still can't. He doesn't care about properly teaching or engaging his students. He writes his exams THE DAY OF, and they contain many logical errors. Even his homework is half-assed and boring. I think he lectures because he likes the sound of his own voice. Not because he cares about helping us learn.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 2/5]
+awfully boring lectures--his cadence makes it physically impossible to pay attention. Reads from Redekopp's slides as if he's seeing them for the first time. Extremely mid lecturer but he knows his stuff I guess.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 1/5] [Would Take Again: Yes]
+His lectures were pretty dry, so find a friend or two to make them bearable. (Even if you can't, I'd show up just to make sure you've got your fundamentals down cold.) Projects and homework assignments are criminally easy, and the one time I went to his office hours he pinpointed the bug in under 60 seconds. Not extraordinary but gets the job done.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 3/5]
+Professor Goodney is a nice person, but I guess he is not very good at teaching CS especially for students who are not coding genius.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Not a bad professor at all, but not special either. Overall Goodney is a solid professor and most importantly fair. He set out clear criteria of what you needed to do to get an A in his class at the beginning, and as long as you put in the work you will get an A. Projects aren't bad at all and homework was also fairly easy.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 4/5] [Difficulty: 3/5]
+Professor Goodney is a nice person, but all he does is to read from the slides. There are occasionally in-class exercises but overall the lectures provide little value. The projects and assignments are barely connected to the quizzes (they are on completely different things), so make sure to go over the slides before assessments.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Lectures were boring and I stopped showing up after the second week. Class overall was fine, you can self-teach by just going over the lecture slides on your own.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Not a hard class (at least CSCI103), only thing is it's a little time consuming for projects sometimes, but you can resolve bugs quickly if you go to office hours. Exams are kinda easy and that is the bulk of the grade. Slides are really good so I just reviewed them all for my exams. I also think it's useful to attend the lectures.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Rarely went to lecture, but when I did it was nothing spectacular. SO much content in this class its insane. I doubt it varies by professor, but get ready to spend a LOT of time on this class. Lecture slideshows are insanely long, I feel like they could definitely be half the size without losing any meaningful content. Makes reviewing a nightmare
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 2/5] [Difficulty: 4/5]
+bro is an extremely boring lecturer and not a good one either. youtube is better. only the TAs were helpful. i posted a question on Edstem while studying and he told me i'm not taking an "active approach to studying" and that "nobody will walk you through problems through the actual exam" regardless liked the projects but was very time-consuming
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 1/5] [Difficulty: 5/5]
+awful
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Prof is nice but not a good lecturer, he just reads off the slides. Make sure to start coding projects early, they aren't super hard but they take a lot of time and the office hour line gets really long (AVL/BST project is halfway over spring break and nearly killed me). Tests are fast paced but curved generously.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+104 is not a very hard class with Goodney. Exams are heavily curved, you can turn things in late for little penalty, and an A is only an 85%. Start the homeworks ASAP, pay attention to the GDB lab, and buy a whiteboard to draw pointers out because you will spend a long time debugging segfaults and you should get an A easily.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+not the best lecturer but this class is really easy if you just do well on the HW(extra credit), and decent on the midterm/final since he gives a good curve. HW is insanely time intensive but TAs are v helpful. lectures are dry and kinda useless - he just reads off the slides. there's too much fear mongering about cs104, it really isnt that bad.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Nice guy, good grading policies, good curves, kinda dry lecturer, exams are a poor test of knowledge and you can do well by just reading the slides. Homework is mostly doable but the written runtime and counting/probability homework requires lots of thinking and office hours help.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney's a decent lecturer but he mostly just reiterates whats written on the slides. The projects can be very long but you get plenty of time to do them and you get extra credit points if you submit early. The exams are very challenging but the class is curved heavily. If you do all the work you can fail both exams and still easily get a B.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5]
+Goodney's lectures are as dry as he is a great person. His office hours are pretty helpful if you ask specific questions, but don't expect to throw your problems at him for him to solve. Homeworks are vague but if you put in the effort and START EARLY it will pay off. Exams questions are confusing but they are not exceptionally difficult.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Professor Goodney is a congenial and approachable instructor. While his lectures may not be the most dynamic, his presentation slides are useful when studying for exams. His exams are challenging, but he generously curved to help students succeed. The extra credit opportunities from homework assignments are greatly advantageous in boosting grades.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Lectures are boring and straight off the slides, but he is a very nice guy and is happy to answer your questions in class and in office hours. Assignments do take time, but they're 100% doable, and you get extra credit for turning them in early. Plus he curves exams
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Dude is super cool and knows a lot about the topic. I don't get the bad reviews about him at all. Just go to lecture and work through the homeworks and you'll be fine. The curve is insanely generous too
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 2/5] [Difficulty: 3/5]
+His tests suck - they are not accurate reflections of course content and instead test you on random  irrelevant questions that are copy-pasted from lecture. His lectures are also horrendous. It seems like Goodney is reading the slides for the first time ever when he reviews them in classes. The homework can be time consuming but really isn'tbad
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 5/5] [Would Take Again: Yes]
+104 is tough. You need to go to OH and start everything early because the 15-20 hours is not a joke, but Goodney is good at explaining and willing to help. The CPs/TAs constantly cancel or no-show their office hours which is extremely frustrating but not Goodney's fault. Overall the class is hard but doable
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 5/5] [Would Take Again: Yes]
+104 is totally doable and stress free only if you time manage well. Each hw requires double digit hours or so, star as EARLY as possible. I did get lots of help going to Goodney's office hour but not so much with CPs / TAs. Tests are okay. Labs are easy! I was so scared to take 104 but for me it was better/easier than 103.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I'm thankful to say that I am ending off on a better note than in 103, mostly due to prior experience in how he graded or organized tests. The MT was not designed in the best way, but the final was much better! HWs are very, very important! Do well on those by starting early (especially on AVL) and don't suffer too much when exam season comes by.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+This is a very doable class as long as you prioritize and start the HWs early. Each HW also has extra credit so you can get over 100 in the HW section. Tests are hard but they are generously curved (the averages were around 50% and Goodney curved them to 75%). As long as you put in effort for the hw, it's very reasonable to end with an A.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+HWs are honestly long and hard so start early to ensure you don't die at the end with other work piling up. MT and Final are gauges of how long you spent staring at the slides. The hardest thing was probably just the AVL Tree which took 20-30 hrs for to debug, but lecture alone can't make you a competent programmer while drive and dilligence can.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Had Goodney for 103 and 104 and he was a good lecturer. Don't really need to attend lecture and can get by just reading the slides. I think the tests are poorly formed. Many of the questions test obscure stuff that is just not relevant to programming. Averages on the midterms and finals are 45-65%. Do your work and you'll be fine. Generous Curves
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Took him for 103 and again for 104. Was a bit unorganized (issues w/grading at first, took a while for scores to release) but it was his first time teaching 104 it was understandable. Grading scale is VERY generous IMO + he curved significantly on exams. Start HW early, but his office hours are super helpful and he's a cool guy. Had a great time.
+
+[Professor: Andrew Goodney] [Class: CSCI104] [Quality: 3/5] [Difficulty: 3/5]
+This was his first time teaching 104. He was very unorganized. We did not get through all of the topics and we were behind all semester. Topics are hard, which is a given for 104, but Goodney doesn't do a good job explaining Counting and Probability. HW is doable and there is extra credit if you finish HW early! Also, he curves up BIG on exams.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Had Goodney for 103 and 104... he's fine. Right now I'm mad at him because he has a homework due after finals, but other than that,, outside of organizational slip ups, he's literally just fine. 104 is just a hard class, and you could tell it was his first time teaching it. I would take him again, but he wouldn't be my first choice.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 1/5] [Difficulty: 1/5]
+Took his csci103 last semester and his csci104 this semester. LAZIEST professor in CS department. Never replies students' questions in Edstem. Useless lectures. I self-learned everything from Mark Redekopp's PPTs.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor Goodney is a true gem. Literally, if you have a brain, take this class. The code is quite easy and homework is minimal.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+Just makes it unnecessarily difficult. No recorded lectures. Limited seats in the non 8AM lectures though theres plenty of space.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is the man. He's been an awesome mentor to me during my time at USC. Go to his office hours and you'll learn a lot
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 2/5] [Difficulty: 3/5]
+Goodney is an awesome professor if you plan to attend his office hours otherwise 103 is just like any other weeder course. He tries to cover almost the entirety of C++ in 14 weeks which is ambitious and honestly overwhelming. He rushes with his concepts and I had to rely on the internet to learn most concepts.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Great professor overall! This class has a lot to do with starting early on the PAs (and try not getting too used to office hrs as there's a programming midterm you must solve on your own!). Ask questions about your code early on! If anything, be comfortable with the information on the slides as it will show up A LOT on written midterms!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Pretty easy class with less easy exams. To get an A, you have to read the slides and program well, and that has nothing to do with Goodney. He kind of doesn't "do" anything active in your learning, and most don't go to lecture. Regardless, he is ok at explaining but employs good Piazza answerers.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+This man is no mark Redekopp (nobody can compare to that angel), but he is still a really good professor. In the beginning I thought he came off as a little condescending, but he is actually a decent guy, very willing to help students who put in the effort. Coursework isn't that bad, start PA's early, ESPECIALLY the last one, and you'll be fine.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 1/5] [Would Take Again: Yes]
+Was overall a very easy course. Labs and PAs are easy 100 as long as you start them early. Exams were easy too. Lectures can be difficult to understand sometimes so make sure to clarify EVERYTHING before and after each lecture. If you fall behind (meaning skipping lectures), you will not be able to catch up.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 1/5] [Difficulty: 5/5]
+The way he grades midterms is stupid and worst of all he doesn't care.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Great professor, very enthusiastic about CS. He made sure his students understood the concepts. He tried to be engaging but the topics weren't too interesting so it was a little slow. Exams are easy but the programming assignments are extremely time-consuming. I think it is easier now but some took a long time.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I legitimately almost dropped out of USC because of how difficult programming was for me. Goodney is a great mentor that helped me learn that Learning != Grades.
+Some will say he's a boring lecturer but if you go to office hours he is super insightful
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: No]
+Not a bad prof, but 103 can get pretty intense
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney's a pretty solid professor. I think he explained concepts well - so long as you sit in the front and pay attention you should understand the gist of what's going on. He's also pretty nice when you discuss course material one on one. That being said, he's kinda rude when it comes to discussing grades. Hates &quot;grade grubbing&quot;.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+The work in this class is a lot with 5 long Programming Assignments and a lab each week. But it is very manageable once you get in the routine and start things early. USE OFFICE HOURS. Goodney is helpful overall and lectures were straightforward, yet sometimes boring.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is pretty average in terms of teaching the 103 concepts. As a student pretty new to CS I felt like the slides sometimes didn't explain concepts very well. Start PAs and labs early and study for the exams and you'll do fine though. I'd recommend going to his office hours if your schedule allows it.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Good at lecturing and is very willing to help students. PA's/Labs are a good amount of work so START EARLY. I know too many students who fall behind on assignments and lectures, screwing themselves over.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Goodney is a solid prof. Definitely start PAs early bc get more intense/time-consuming throughout the semester. GO TO GOODNEY'S OH, barely any students show up and he offers a lot of help when you are stuck. Also use the TA/CPs in SAL for PA /lab help. Lectures are dense and are skippable but make sure you read slides, bc exams cover info in there
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Be prepared to put in a lot of time into this class. Concepts are easy to code but hard to explain (the written midterm and final are pretty difficult compared to the coding midterm which should be a free A).
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+Professor Goodney is not the worst and definitely not the best imo. The problem was that the programming exam was absolutely NOTHING like the practice programming exams, although it was worth 15% of the grade, even so, it had a great impact on our total grade.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+He's not a good lecturer and he is kind of rude. He gets mad if you ask about grades. There were too much homework and the exams were tough. I don't recommend taking 103 with him.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Pretty solid professor. Explains things well and is generally very considerate when taking/answering questions. People call him lazy outside of lecture but the CS student body is huge so it's not realistic for him to care/help for each and every single student. Start work early and review the slides/lectures and you'll most likely be fine for an A.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+goodney is a really solid professor. make sure to do the PAs on time.  if you do that, the labs basically dont matter. i made the mistake of basically not doing PAs at the end of the semester and my grade suffered bc of it
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 1/5] [Difficulty: 3/5] [Would Take Again: No]
+As an experienced programmer the coding portion of this class was easy. However I often felt really bad for first time programmers in this class. The written exams are total BS and ask you wordy stuff from lecture. As if a software engineer is gonna need to memorize that. Goodney has a bad attitude and threatens to not curve if people ask ab grades
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+103 is a simple class, and Goodney contributed to that. He explained the concepts thoroughly and concisely, and was very receptive to questions and answered them as best he could, which was almost always more than enough. The lectures were almost the exact same as the slides, but Goodney also adds in a lot of extra examples he codes in front of us.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 2/5] [Difficulty: 4/5] [Would Take Again: No]
+The class had some unexpected difficulty spikes. My problem with Goodney lies in how static and emotionless he is. Lecture heavy class with monotone power-point reading. It is evident the class hasn't changed to adapt to the feedback of students as all PAs, Labs, and Exams are reused from previous semesters. Avoid if possible, thank me later.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+He's usually not accessible outside of the class and never answers questions, lectures are very fast and he never repeats himself. this class has many TA/ CPs and they are the BEST. I only learned stuff from them, not Goodney. There are 5 programming assignments and they are so DIFFICULT. 9 Labs, 2 midterm+ final. The programming exam is the WORST.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Goodney is a solid (may be the only) choice for 103 at USC. Lectures are definitely a bit dry, but I found that going through the slides by myself was enough. Assignments are time consuming but relatively straightforward, weekly labs are a grade boost. Midterms aren't too bad if you study. If you have a little CS experience, you should be good.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+There are assignments due every 2 weeks and labs due every week, and they can be quite difficult (start them early). If you have coding experience, even if it is not C++, the assignments won't be as difficult, but are still far from easy. The exams are fair, and he gives opportunities to get points back. Office hours can take hours to get help at.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+In general pretty good lectures. I feel like he's knowledgeable, reasonable, and logical. The class itself has a lot of assignments and he tried his best to prepare students for that during lectures. Nothing really bad about him.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Goodney is a solid professor. He follows the material and curriculum at a reasonable pace that isn't too fast or too slow. Not the most interesting lecturer but he's open to questions in lectures. Tests and assignments are straightforward; if you at least watch the lecture recordings and take note of the syntax used, this is an easy class.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Not the worst prof. Is fair enough in terms of deadlines and exams, and makes lectures decently interesting. He however provides little outside help. Just go to office hours and make use of the TAs/CPs when stuck, and actually learn GDB and Valgrind for debugging, will save you lots of headache for labs and PAs.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 1/5] [Difficulty: 3/5] [Would Take Again: No]
+Goodney's 103 class is not hard compared to most CS classes. My issue with him is how unbelievably lazy he is. If you want help from him, he will just refer you to Piazza or TA's. If you ask for leniency on a due date or grade, he will not give it. His reasoning for this is cop-out after cop-out, it is clear to me that he is simply a lazy professor
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 5/5] [Would Take Again: No]
+I won't take a Goodney class again. As others have mentioned, he gets rude and visibly upset when students ask about grades. It's understandable that he has strict criteria, but his attitude made me too nervous to raise valid issues. I definitely lost a few exam points because I thought he'd be mad if I asked for a (valid) regrade.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 2/5] [Difficulty: 4/5] [Would Take Again: No]
+Prof. Goodney was just ok. I honestly feel like I learned more from the TAs than from him. Pros: will make deadline adjustments if the majority is struggling, answers all questions in lecture Cons: not friendly when it comes to individual issues (grateful I didn't have any), written test questions were often really vague/ ambiguous
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+His lectures get very dry and boring, but it's meh. Labs and PAs take up a lot of time. He's generally very friendly and understanding (he extended our final PA deadline for instance) until students ask about grades. He wrote a rather upset note on Piazza about &quot;grade grubbing&quot;, which is a fair argument, but phrased rather unnecessarily abrasively.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: Yes]
+He is pretty patient and kind up until when students start to complain about grades to him. The lectures are super heavy and kinda boring... you won't be able to comprehend much if you didn't get a good sleep the night before (cs newbie warning) lots of concepts dumping in lecture, make sure you review after class b/c the final is all about those
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Some labs &amp; PAs were HEAVY and the last PA deadass took me 18 hours lol but I learned so much from them! Most ppl get 100% on all of them so an A/A- is definitely achievable. Coding midterm was hard  50% got 0 and 50% got 100%. Gave a midterm &quot;redo&quot; to earn up to 50% back on the midterm which was rly generous. Also a great lecturer.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+He's such a great guy and a great prof, he explained the material really well! I loved his class, even though his lectures sometimes got boring, but that was bc it was online. Left the class with a nice feeling, take him! Definitely challenging, especially for students who are new to CS
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor Goodney is extremely caring, as he extended the deadline for PA5 and offered a repechage exam when around 1/3 of the class scored zero on the programming midterm. This class is not challenging as long as you don't rely on OH for finishing labs and PAs, and keep up with the lectures.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is good at answering questions and explaining concepts but it was hard to pay attention in lectures since lectures were around an hour of material nonstop. PAs are worth 30% of your grade, make sure you start them early! OH are also helpful. The exams were decent, one was a written midterm and the other was coding.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+His lectures are occasionally boring, but Professor Goodney is a great guy. He was very accommodating during this semester, and even offered a repechage for those of us who struggled with the programming midterm.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 1/5] [Would Take Again: Yes]
+Goodney is a great guy that'll always be there to help whether it be with your grade and/or a concept. He offered a do-over exam for students who did poorly on the midterm. He's great at answering questions and you can tell he is really passionate about comp sci. Class content is on the class slides and workload is not bad if u don't procrastinate.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I couldn't have asked for a better professor to learn from as a beginner in computer science. Professor Goodney always encourages questions in class and never makes you feel bad about what you are asking. He is incredibly understanding and always goes out of his way to help students. Definitely take his class!! I'm going to miss him next semester!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Base on the experience online, he is a really nice person. He explains well about the lecture content, and he's the kind of humor. Should be an easy A if you spend enough time on it, even though the work can be heavy in the latter part of the semester when things get hard. Some bad experience about online lab checking due to time zone...
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+The lectures were very dry, hwk was manageable. The coding midterm was a bit ridiculous since a single wrong answer would tank your grade by 25% and he gave no partial credit. The final was also more like a trivia quiz rather than a cs final which caught many people off guard.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: No]
+The homework had advanced coding problems that need a lot of practice to be good at, and he introduced us to them when we just learned the material. The tests include theory and programming, but he doesn't go over the theory much in class. If you take him, plan to study outside of class
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+He doesn't leave anyone behind and is sure to review the info from the previous lecture before moving on. Really ties all the concepts together.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor Goodney is a great Professor when it comes to really breaking down programming concepts for beginners. He also really cares about his students and was very accommodating when it came to mistakes with grading. There was a lot of confusion when it came to the material of the midterms. Otherwise great Professor, work hard and you'll succeed!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+3/5 lecturer but 5/5 person, heavy labs and PAs that can take a whole weekend to finish
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+Professor Goodney is a nice guy, but his lecture is really boring for me. Those lectures just made me asleep, and I have to learn concepts from the Lab and PA by myself. Lab and PA would cost plenty of time, so be ready to stay up late.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Goodney is a decent prof. He was really understanding this semester and moved deadlines to help the class (I just fell apart at the end thus B-). He's not the most engaging for sure and can go on tangents while in lecture but he's good at explaining things in OH if you go. Usually, you can't escape him so you'll be fine.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Alright lecturer, but amazing, wholesome, caring person. I would give his teaching a 3 maybe, but the way he cares for his students is more than enough to bump him to a five. PROS: understanding to beginners, will help if you ask for it CONS: boring lectures, procrastinates (he did not tell us what was gonna be on the midterm until the day before)
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Amazing professor. Very skilled in explaining programming concepts, especially for beginners. Extremely patient person and responsive to questions. Super understanding and receptive to student concerns. Labs and PAs were challenging and time consuming, but exams were on the easier side. Beware of long office hours lines.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Lectures were pretty boring, and it was tempting to just watch recordings online later in the day. Class can become difficult if you fall behind on assignments. Goodney is very friendly during lectures, but he is very strict on grading (almost no partial credit on programming midterm, called people who asked him to round up &quot;grade grubbers&quot;).
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Professor Goodney is amazing! If you set your mind to learn CS, Goodney makes your life much easier for beginners. He is very easygoing and cares for students in different circumstances. CSCI103 is a hard A course, but he makes sure all your questions are detailly answered. PAs and labs are hard-core, but there are many TAs and CPs to help you.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Goodney is the most meh teacher there is. He doesn't do anything wrong, but he doesn't do anything well either. All of the slides and PAs were made by Redekopp, who is amazing from what I've heard. If you have Goodney, you'll have a good understanding of how to program in C++, but you also won't exactly find yourself inspired by his teaching.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+lectures are pretty boring, don't have to go to them if you already know the material. and he posts his slides online. homework is just coding. can be hard but office hours are pretty much all day and they'll help a lot. he's willing to give extensions and is overall genuinely kind. definitely would take him again!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor Goodney is helpful, kind, and clearly passionate about what he teaches. A few weeks in, he re-did the semester plan and cut assignments and topics due to the 13-week semester, which alleviated a lot of stress. TIP: start labs early and demo them before Friday! The lab queue is packed on Fridays and TAs/CPs are more accessible earlier.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+The assignments and tests are fair game, but the lectures are just boring.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+His lectures are really good and help with weekly labs. The class itself is harder than it seems at first. The level of difficulty exponentially increases through the semester, so don't get behind in lectures. The Office Hours queue is LONG, so always start your labs early. Goodney is a solid choice, and you'll enjoy the class as long as you try.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+super wholesome and caring guy. sucks that online class decreases educational experiences and wish i could've taken his class in person
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Wholesome guy, great professor.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Prof Goodney is so amazing! I had him for 109 fall 2019 and he is so incredibly kind and knowledgeable. Definitely recommend him for any class you take!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+I feel like Goodney gets a bad rap for no reason other than the fact that he's the first CS prof many people have and they feel obligated to give him mediocre ratings. That and the fact that he used to teach CS109 which is a ratings tanker. He's actually a very good prof, explains everything adequately and is very good about answering questions.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+The semester that I had Goodney, we had a shooter scare on campus. His reaction when the students started buzzing in his lecture hall still cracks me up to this day: &quot;Everyone relax, you're much safer in here... don't forget how hard it was for you to find SAL when you first got here&quot; 5/5, knows his stuff, turns a meh class into pretty cool one
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+I don't get the Goodney hate--he's the equivalent of a human teddy bear. He's been nothing but helpful and caring this semester, and is actually a pretty good lecturer (he's straightforward, patient with questions, and offers good examples for most concepts). No complaints here, take him if Redekopp isn't teaching your semester!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+If you have CS experience (AP CS, etc.) just keep up with the assignments and you'll be fine. If not, attend lectures/office hours religiously, and really try to participate in class. Goodney will answer most questions, and does his best to simplify things. This can be a rough course, but honestly one of my best experiences with a Prof so far.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Friendly, straightforward, knowledgeable, fairly good at explaining concepts. Goodney is pretty much all you can ask for in a CS professor.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Most people say CS 109 is a boring class but I thought it provided good fundamental knowledge to CS. Goodney is also a very nice and caring professor who was always willing to help during office hours.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+He was a great professor. I didn't have much CS experience going into 103, but Goodney was very helpful and his office hours were great. He genuinely cares about his students. I had a recruiter request an all-day meeting with me two days before a big assignment was due, and Goodney went above and beyond in helping me work around that. Awesome dude.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Had for both 109 and 103. He really cares about his students, don't be afraid to reach out and ask for deadline extensions, a friend of mine asked for an extra day because she was busy with some recruitment stuff and he gave her 3 extra days without question. He's a little boring but covers the curriculum which is better than some professors here.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Great guy, meh class (don't recommend CSCI 109 for reasons other reviewers have mentioned; too broad/shallow, mediocre testing practices, etc) Somewhat boring lecturer, but does get all the curriculum across, which is more than some professors, especially at research-emphasis universities like as this.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 2/5] [Difficulty: 2/5] [Would Take Again: No]
+109 is actually a pretty interesting class but goodney ruins it by being the most uninteresting lecturer of all time. He really is able to put a room of 300 people to sleep within 30 minutes of class. He is also incredibly rude on the piazza giving responses like, where do you think you could find this information?
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 2/5] [Difficulty: 4/5] [Would Take Again: No]
+Professor Goodney isn't terrible, but CSCI109 absolutely is. It's boring, useless, and a complete waste of time/money. The content is fairly easy, but Goodney tries his best to screw you during exams by testing on the smallest, most insignificant details. Would not recommend taking this class. Goodney is the most average.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: No]
+i dont know why this class even exists. it is so useless especially if you are not a cs major. the classes was a huge lecture with like 300 kids and no one even paid attention. the only reason you need to show up is to take the (almost) weekly quizzes, but other than that there is no reason to pay attention everything is basically on the slides.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 1/5] [Difficulty: 4/5] [Would Take Again: No]
+Extremely hard final and midterm because he never mentioned the materials in class. You have to know how to APPLY to get a good grade; the funny thing is the course should be intro, not a graduate-level course.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 2/5] [Difficulty: 2/5] [Would Take Again: No]
+Professor Badney is not good. He is the one who will extinguish your dreams in CS. His lectures are tediously long, assignment are simple &amp; meaningless, but he will test you as if you were a PRO. Although there will be curves, as a sophomore taking the course, I suggest freshman students not take this course if having no former experience with CS.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 1/5] [Difficulty: 2/5] [Would Take Again: No]
+Absolutely one of the worst CS classes at USC. You have to take it anyway if you are a CS-related major; just don't take it if you are just &quot;interested&quot; in computer science. THIS IS NOT CS. It's discussion of whether a weaver is a computer, and things alike, for two super boring hours every week througout the semester.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+The lectures can be a bit monotonous but they contain important material you'll need for any future programming. Really helpful in office hours and will explain anything you're struggling with. The PA's are always quite difficult and a big jump from what has been taught, but they're not impossible and you feel accomplished after finishing them.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 2/5] [Difficulty: 2/5] [Would Take Again: No]
+The class is an absolute bore. The only reason a lot of people go to class is because he has quizzes at the end of class. The lecture slides have everything you need to know, and he posts them online after lectures. You have to attend, but there's no need to pay attention.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 2/5] [Difficulty: 3/5] [Would Take Again: No]
+His classes were very boring.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+lectures are boring but his slides are very informative and has everything you need to know. ask questions as soon as they pop up bc the confusion only adds up. you can pass this class as long as you do the all the work even if you do a little bad on the tests. sometimes the labs/PAs really make you want to die tho :) so start :) early :)
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: Yes]
+this is the worst cs class to ever exist. SO boring and you come out of it having learnt close to nothing. exams are hard for no reason even if you pay attention and study. most of his lectures are straight out of the book so if you skip, just read, it's the same thing since participation doesn't matter there's 300 kids in there.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 1/5] [Difficulty: 5/5] [Would Take Again: No]
+He's nice but he only taught us just the basics and his tests were really difficult and tricky to the point that many people were struggling. The only thing that saved us was his curve.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 5/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor Goodney seems to be a solid choice for CS courses, but that's really hard to tell based off taking CS109. CS109 is a weird class where you're introduced to all of these different topics that span the entire width of CS. But not enough to implement anything, just scratch the surface of everything. Well, it's required so have fun w it.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 4/5] [Difficulty: 5/5] [Would Take Again: No]
+He's really nice but DON'T TAKE CS UNLESS YOU'RE GOOD AT MATH OR SCIENCE. I want to be a lawyer-- huge mistake to take this class, my pristine GPA is now tainted because I thought a CS course would be fun to take. Goodney tries his best to get the information across but the concepts are really hard to grasp unless you're already STEM-oriented.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney likes these topics, is well-prepared, and his lectures are clear. No matter how basic, you do learn theory and it's really relevant in later classes. Make sure to think about the material and how to apply it instead of just memorizing, you might do better on tests.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 2/5] [Difficulty: 4/5] [Would Take Again: No]
+Hard final
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+A lot of people here particularly complain about his CSCI 109 course, and honestly that is not very fair to him. To start, I also took 103 with Goodney, and he was a great instructor for both. However, 109 is and INTRO to Computer Science, typically for freshman. So if CS isn't for you, yea it'll probably be boring and maybe even torture.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 3/5] [Difficulty: 4/5] [Would Take Again: Yes]
+He's fine but this class just sucks. 300 people crammed into a room meant for 100 and long boring lectures merely hitting the surface level of many different topics. No programming or solving problems which is the best part of cs.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 2/5] [Difficulty: 1/5] [Would Take Again: No]
+If you read the textbook, you get the same information as you would if you paid attention to the lectures in CSCI109. The lectures are extremely boring, so I suggest you read the book. There are quizzes every week pretty much, so I suggest showing up to class, but be prepared to sleep or do something else during the lecture.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Professor Goodney is a nice guy, but he's a very monotonous lecturer. His lectures can often put you to sleep due to the monotony. If you visit him in office hours to go over more work, he's a more helpful person and can explain topics with less monotony. Overall, as long as you do the homework, labs, and tests, CSCI 103 is an easy class to pass.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney for CS103 is generally helpful. His lectures are slow, but they are helpful and he takes time after every slide to ask if anyone has questions. He is generally passionate about the class and actually cares about his students, so his office hours are helpful. If you have him for CS109, it's probably pretty boring, but I blame the course more
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 1/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Prof. Goodney teaches great CS103. But CS109 is just awful. USC should really cancel this course. The course introduces many graduate-level things like some complicated AI algorithms and doesn't go deep. You have to learning everything on Youtube. And he tests you on the UNDERSTANDING of those algorithms. His CS109 lecture is literally torture.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Andrew Goodney is a good professor, he definitely cares about students. The problem is CS109, the course material is really over the top, which makes the lectures very dull. The size of the lecture also doesn't help; there are too many people in one lecture and many times I found myself getting those sleep hours in his lecture.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Interesting lectures, hes great. understanding. Really enjoyed the class, he helped me out. Take cs109 and cs103 with him.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Professor Goodney is a great lecturer who gets the topics instilled into your minds as long as you pay attention. Passionate about the topics and has a good sense of humor, so he can make these topics fun while still learning tons. highly recommend him
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Great professor, communicates and teaches well, and is always happy to meet outside of class or to share his expertise during office hours
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Lecture slides cover everything you need to know for the class - you don't need to read the textbook. Not the most engaging lecturer but very clear in requirements and always willing to help. Tests are slightly more applied but fair.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 2/5] [Difficulty: 4/5] [Would Take Again: No]
+Lectures are incredibly boring and vague; you should skip if there's no in-class quiz. Workload isn't too bad considering there are only 4 assigned homework assignments. However, the tests are quite challenging, asking for minuscule details from the hundreds of lecture slides.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is a good teacher. He's massively changed up his teaching and he is a fair teacher. For CS103, he's got it going. Goofy guy.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney's teaching skill has improved a lot, at least in CS 103. Lecture is very clear. He really cares his student, willing to help with assignments during office hours.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Goodney is a much better lecturer for CSCI103 than for CSCI109. His lectures in this class were much more interesting and he seems to be more comfortable teaching this material. Overall, the class is fairly easy for most people with prior programming experience.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 3/5] [Difficulty: 2/5] [Would Take Again: No]
+In this class there were easy quizzes, however the tests were much more difficult. Goodney's lectures were pretty dry, and the material taught in this class was boring.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is actually a great guy (super wholesome) and great professor. Would recommend CSCI102 for absolute beginners in CS, but going to lectures and doing the in-class exercises should help anyone succeed in CSCI103. As for CSCI109, just make sure you understand how things work; the topics are actually really cool!!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Prof Goodney has a good knowledge of CS who is able to answer all questions in and out of class. He also responds quickly and gives good feedback. His lecture, however, is not well paced. The exams are more theoretical than practical, so don't miss anything in lectures or ppts. Newbies in CS had better take CSCI102 before taking this course.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 3/5] [Difficulty: 2/5] [Would Take Again: No]
+Difficult to follow his in class examples. Pretty dry lecturer. He reads off his slides but it can be difficult to understand his slides by itself if you don't take notes. Not the best professor if you have zero experience in coding/programming, but he's really nice and accessible if you ever need any help.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+If you take a sip every time he says &quot;um&quot; or &quot;uh&quot; even in his prepared lecture presentations (i.e. not even when he answers questions), you would probably die.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 2/5] [Difficulty: 3/5] [Would Take Again: No]
+Not an especially good professor for someone who has no experience with CS. Sure, his lecturing style may be adequate for someone who knows the content already, because he just reads lecture slides, but for students that have no background, it is very easy to get lost in the lectures. You should expect to do most of your learning outside of class.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 2/5] [Difficulty: 4/5] [Would Take Again: No]
+Challenging class considering the midterms and final focus on application of concepts in low-level ways, while the concepts are only discussed abstractly in lecture. Said he no suggestions when I asked him what I should do for extra practice, which was a disappointing response from a professor. Dry lectures.
+
+[Professor: Andrew Goodney] [Class: CS103] [Quality: 3/5] [Difficulty: 2/5] [Would Take Again: Yes]
+I found CS103 easy since I had programming experience, but it would be difficult without it (there is lots of help available from CPs). The class started out basic, but accelerated the last half of the semester. I found that Goodney does not lecture beyond his slides, so content wise, reading the slides later was the same as showing up lecture.
+
+[Professor: Andrew Goodney] [Class: CS109] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: No]
+Goodney's 109 class is quite dry and the quizzes/tests are quite challenging. He seems passionate about the topic but the material is essentially assorted introductory trivia about a whole range of CS topics. Beware the midterm and final; they are quite hard to effectively study for and make up 65% of your grade.
+
+[Professor: Andrew Goodney] [Class: CSCI109] [Quality: 3/5] [Difficulty: 3/5] [Would Take Again: Yes]
+This was his first semester teaching 109, so it was a little rough at times. But if you didn't understand anything from lecture, he would be happy to explain in more detail during office hours or after class. Not always very clear in his explanations, but always willing to help you better understand and he will reexplain if you need it.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Goodney is a solid professor, he's good at explaining tough concepts and he's very accessible outside of class and loves to talk about any CS topic.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 4/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Goodney's a straight baller. He is very clear and makes it easy to understand lecture material. Funny guy, too.
+
+[Professor: Andrew Goodney] [Class: CS103L] [Quality: 4/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Overall, Goodney is a decent professor. He is accessible outside of class and does his best to help students understand the material. On the other hand, his lectures often lost my attention. Also, having taken this class without prior programming experience, I found that it progressed at a very fast pace, inconsiderate of beginners like me.
+
+[Professor: Andrew Goodney] [Class: CSCS103] [Quality: 5/5] [Difficulty: 3/5] [Would Take Again: Yes]
+Prof Goodney is pretty under rated. He's a caring guy, always willing to help his students. Lectures are very important.  Make sure not to miss those since they move fast. If you're unsure about something, don't hesitate to ask, he's willing to clear all your doubts. Assignments, and the class overall was pretty fun. Would love to take him again!
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Goodney is an amazing professor! He makes learning coding interesting. He is very accessible outside of class and really cares about your success within computer science.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: Yes]
+Awesome guy, great teacher all around.
+
+[Professor: Andrew Goodney] [Class: CSCI103L] [Quality: 5/5] [Difficulty: 4/5] [Would Take Again: Yes]
+Not gonna lie, you WILL struggle without prior coding experience with Goodney. He moves fast, but your opinion will vary based on how much you know already. He's got a good personality and obviously does try to make it enjoyable, or as much as an intro class can be.  Reach out to TAs/CPs when needed, because this is a sink or swim weeder class.
+
+[Professor: Andrew Goodney] [Class: CSCI103] [Quality: 4/5] [Difficulty: 2/5] [Would Take Again: No]
+He seemed to know what he was talking about but had some difficulty relaying that knowledge in his instruction, especially in his earlier classes. While his teaching will likely improve, I would recommend to cover most material yourself rather than rely on lectures, especially if you have limited prior programming experience.
